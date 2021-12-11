@@ -1022,6 +1022,7 @@ class Crawlers extends AbstractProvider
         'ScopeContentAG-HTTP-Client',
         'ScoutJet',
         'ScoutURLMonitor',
+        'scpitspi',
         'ScrapeBox Page Scanner',
         'Scrapy',
         'Screaming',
